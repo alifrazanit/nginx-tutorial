@@ -2,4 +2,9 @@
 2. open your terminal and run:
     2.1. apt-get update
     2.1. apt-get install nginx
-    2.3. 
+3. after the installation is done, next we are going to edit main configuration and start from scratch
+4. open your terminal again and run:
+    4.1. cp /etc/nginx/nginx.conf /etc/nginx/nginx-default.conf
+    4.2. nano /etc/nginx/nginx.conf
+    4.3. delete all conf and write code like in my branch tutorial/section-1 log f532702b95c59e8b6c95b46cb9a9a9d479a3288c
+5. minimum configuration for nginx is done.
