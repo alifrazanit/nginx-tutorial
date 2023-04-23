@@ -1,0 +1,5 @@
+1. Install nginx on your vps, here example how to install it in ubuntu
+2. open your terminal and run:
+    2.1. apt-get update
+    2.1. apt-get install nginx
+    2.3. 
